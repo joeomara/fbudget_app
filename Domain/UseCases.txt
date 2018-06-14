@@ -1,0 +1,10 @@
+﻿1. I want to be able to create a budget
+	a. I need to be able to define custome categories
+	b. I need to be able to set how much money to spend on each category
+	c. I need to be able to specify my income
+
+2. I want to be able to check how much money I have left in the budget
+	a. I need to be able to add transactions to categories
+	b. I need to be able to see how much I've spent in each category
+	c. I need to be able to change what category a transaction belongs in
+	d. I need to be able to see transcation history
